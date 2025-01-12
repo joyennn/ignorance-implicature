@@ -1,0 +1,700 @@
+﻿1,image1-1.png,There are four apples in the boxes.,precise,bare,bare
+1,image1-1.png,There are at least four apples in the boxes.,precise,superlative,upward
+1,image1-1.png,There are more than three apples in the boxes.,precise,comparative,upward
+1,image1-1.png,There are at most four apples in the boxes.,precise,superlative,downward
+1,image1-1.png,There are fewer than five apples in the boxes.,precise,comparative,downward
+1,image1-2.png,There are four apples in the boxes.,approximate,bare,bare
+1,image1-2.png,There are at least four apples in the boxes.,approximate,superlative,upward
+1,image1-2.png,There are more than three apples in the boxes.,approximate,comparative,upward
+1,image1-2.png,There are at most four apples in the boxes.,approximate,superlative,downward
+1,image1-2.png,There are fewer than five apples in the boxes.,approximate,comparative,downward
+2,image2-1.png,There are four bananas in the boxes.,precise,bare,bare
+2,image2-1.png,There are at least four bananas in the boxes.,precise,superlative,upward
+2,image2-1.png,There are more than three bananas in the boxes.,precise,comparative,upward
+2,image2-1.png,There are at most four bananas in the boxes.,precise,superlative,downward
+2,image2-1.png,There are fewer than five bananas in the boxes.,precise,comparative,downward
+2,image2-2.png,There are four bananas in the boxes.,approximate,bare,bare
+2,image2-2.png,There are at least four bananas in the boxes.,approximate,superlative,upward
+2,image2-2.png,There are more than three bananas in the boxes.,approximate,comparative,upward
+2,image2-2.png,There are at most four bananas in the boxes.,approximate,superlative,downward
+2,image2-2.png,There are fewer than five bananas in the boxes.,approximate,comparative,downward
+3,image3-1.png,There are four ice cream cones in the boxes.,precise,bare,bare
+3,image3-1.png,There are at least four ice cream cones in the boxes.,precise,superlative,upward
+3,image3-1.png,There are more than three ice cream cones in the boxes.,precise,comparative,upward
+3,image3-1.png,There are at most four ice cream cones in the boxes.,precise,superlative,downward
+3,image3-1.png,There are fewer than five ice cream cones in the boxes.,precise,comparative,downward
+3,image3-2.png,There are four ice cream cones in the boxes.,approximate,bare,bare
+3,image3-2.png,There are at least four ice cream cones in the boxes.,approximate,superlative,upward
+3,image3-2.png,There are more than three ice cream cones in the boxes.,approximate,comparative,upward
+3,image3-2.png,There are at most four ice cream cones in the boxes.,approximate,superlative,downward
+3,image3-2.png,There are fewer than five ice cream cones in the boxes.,approximate,comparative,downward
+4,image4-1.png,There are four candies in the boxes.,precise,bare,bare
+4,image4-1.png,There are at least four candies in the boxes.,precise,superlative,upward
+4,image4-1.png,There are more than three candies in the boxes.,precise,comparative,upward
+4,image4-1.png,There are at most four candies in the boxes.,precise,superlative,downward
+4,image4-1.png,There are fewer than five candies in the boxes.,precise,comparative,downward
+4,image4-2.png,There are four candies in the boxes.,approximate,bare,bare
+4,image4-2.png,There are at least four candies in the boxes.,approximate,superlative,upward
+4,image4-2.png,There are more than three candies in the boxes.,approximate,comparative,upward
+4,image4-2.png,There are at most four candies in the boxes.,approximate,superlative,downward
+4,image4-2.png,There are fewer than five candies in the boxes.,approximate,comparative,downward
+5,image5-1.png,There are four forks in the boxes.,precise,bare,bare
+5,image5-1.png,There are at least four forks in the boxes.,precise,superlative,upward
+5,image5-1.png,There are more than three forks in the boxes.,precise,comparative,upward
+5,image5-1.png,There are at most four forks in the boxes.,precise,superlative,downward
+5,image5-1.png,There are fewer than five forks in the boxes.,precise,comparative,downward
+5,image5-2.png,There are four forks in the boxes.,approximate,bare,bare
+5,image5-2.png,There are at least four forks in the boxes.,approximate,superlative,upward
+5,image5-2.png,There are more than three forks in the boxes.,approximate,comparative,upward
+5,image5-2.png,There are at most four forks in the boxes.,approximate,superlative,downward
+5,image5-2.png,There are fewer than five forks in the boxes.,approximate,comparative,downward
+6,image6-1.png,There are four knives in the boxes.,precise,bare,bare
+6,image6-1.png,There are at least four knives in the boxes.,precise,superlative,upward
+6,image6-1.png,There are more than three knives in the boxes.,precise,comparative,upward
+6,image6-1.png,There are at most four knives in the boxes.,precise,superlative,downward
+6,image6-1.png,There are fewer than five knives in the boxes.,precise,comparative,downward
+6,image6-2.png,There are four knives in the boxes.,approximate,bare,bare
+6,image6-2.png,There are at least four knives in the boxes.,approximate,superlative,upward
+6,image6-2.png,There are more than three knives in the boxes.,approximate,comparative,upward
+6,image6-2.png,There are at most four knives in the boxes.,approximate,superlative,downward
+6,image6-2.png,There are fewer than five knives in the boxes.,approximate,comparative,downward
+7,image7-1.png,There are four strawberries in the boxes.,precise,bare,bare
+7,image7-1.png,There are at least four strawberries in the boxes.,precise,superlative,upward
+7,image7-1.png,There are more than three strawberries in the boxes.,precise,comparative,upward
+7,image7-1.png,There are at most four strawberries in the boxes.,precise,superlative,downward
+7,image7-1.png,There are fewer than five strawberries in the boxes.,precise,comparative,downward
+7,image7-2.png,There are four strawberries in the boxes.,approximate,bare,bare
+7,image7-2.png,There are at least four strawberries in the boxes.,approximate,superlative,upward
+7,image7-2.png,There are more than three strawberries in the boxes.,approximate,comparative,upward
+7,image7-2.png,There are at most four strawberries in the boxes.,approximate,superlative,downward
+7,image7-2.png,There are fewer than five strawberries in the boxes.,approximate,comparative,downward
+8,image8-1.png,There are four pineapples in the boxes.,precise,bare,bare
+8,image8-1.png,There are at least four pineapples in the boxes.,precise,superlative,upward
+8,image8-1.png,There are more than three pineapples in the boxes.,precise,comparative,upward
+8,image8-1.png,There are at most four pineapples in the boxes.,precise,superlative,downward
+8,image8-1.png,There are fewer than five pineapples in the boxes.,precise,comparative,downward
+8,image8-2.png,There are four pineapples in the boxes.,approximate,bare,bare
+8,image8-2.png,There are at least four pineapples in the boxes.,approximate,superlative,upward
+8,image8-2.png,There are more than three pineapples in the boxes.,approximate,comparative,upward
+8,image8-2.png,There are at most four pineapples in the boxes.,approximate,superlative,downward
+8,image8-2.png,There are fewer than five pineapples in the boxes.,approximate,comparative,downward
+9,image9-1.png,There are four pizzas in the boxes.,precise,bare,bare
+9,image9-1.png,There are at least four pizzas in the boxes.,precise,superlative,upward
+9,image9-1.png,There are more than three pizzas in the boxes.,precise,comparative,upward
+9,image9-1.png,There are at most four pizzas in the boxes.,precise,superlative,downward
+9,image9-1.png,There are fewer than five pizzas in the boxes.,precise,comparative,downward
+9,image9-2.png,There are four pizzas in the boxes.,approximate,bare,bare
+9,image9-2.png,There are at least four pizzas in the boxes.,approximate,superlative,upward
+9,image9-2.png,There are more than three pizzas in the boxes.,approximate,comparative,upward
+9,image9-2.png,There are at most four pizzas in the boxes.,approximate,superlative,downward
+9,image9-2.png,There are fewer than five pizzas in the boxes.,approximate,comparative,downward
+10,image10-1.png,There are four pies in the boxes.,precise,bare,bare
+10,image10-1.png,There are at least four pies in the boxes.,precise,superlative,upward
+10,image10-1.png,There are more than three pies in the boxes.,precise,comparative,upward
+10,image10-1.png,There are at most four pies in the boxes.,precise,superlative,downward
+10,image10-1.png,There are fewer than five pies in the boxes.,precise,comparative,downward
+10,image10-2.png,There are four pies in the boxes.,approximate,bare,bare
+10,image10-2.png,There are at least four pies in the boxes.,approximate,superlative,upward
+10,image10-2.png,There are more than three pies in the boxes.,approximate,comparative,upward
+10,image10-2.png,There are at most four pies in the boxes.,approximate,superlative,downward
+10,image10-2.png,There are fewer than five pies in the boxes.,approximate,comparative,downward
+11,image11-1.png,There are four wines in the boxes.,precise,bare,bare
+11,image11-1.png,There are at least four wines in the boxes.,precise,superlative,upward
+11,image11-1.png,There are more than three wines in the boxes.,precise,comparative,upward
+11,image11-1.png,There are at most four wines in the boxes.,precise,superlative,downward
+11,image11-1.png,There are fewer than five wines in the boxes.,precise,comparative,downward
+11,image11-2.png,There are four wines in the boxes.,approximate,bare,bare
+11,image11-2.png,There are at least four wines in the boxes.,approximate,superlative,upward
+11,image11-2.png,There are more than three wines in the boxes.,approximate,comparative,upward
+11,image11-2.png,There are at most four wines in the boxes.,approximate,superlative,downward
+11,image11-2.png,There are fewer than five wines in the boxes.,approximate,comparative,downward
+12,image12-1.png,There are four coffees in the boxes.,precise,bare,bare
+12,image12-1.png,There are at least four coffees in the boxes.,precise,superlative,upward
+12,image12-1.png,There are more than three coffees in the boxes.,precise,comparative,upward
+12,image12-1.png,There are at most four coffees in the boxes.,precise,superlative,downward
+12,image12-1.png,There are fewer than five coffees in the boxes.,precise,comparative,downward
+12,image12-2.png,There are four coffees in the boxes.,approximate,bare,bare
+12,image12-2.png,There are at least four coffees in the boxes.,approximate,superlative,upward
+12,image12-2.png,There are more than three coffees in the boxes.,approximate,comparative,upward
+12,image12-2.png,There are at most four coffees in the boxes.,approximate,superlative,downward
+12,image12-2.png,There are fewer than five coffees in the boxes.,approximate,comparative,downward
+13,image13-1.png,There are four cups in the boxes.,precise,bare,bare
+13,image13-1.png,There are at least four cups in the boxes.,precise,superlative,upward
+13,image13-1.png,There are more than three cups in the boxes.,precise,comparative,upward
+13,image13-1.png,There are at most four cups in the boxes.,precise,superlative,downward
+13,image13-1.png,There are fewer than five cups in the boxes.,precise,comparative,downward
+13,image13-2.png,There are four cups in the boxes.,approximate,bare,bare
+13,image13-2.png,There are at least four cups in the boxes.,approximate,superlative,upward
+13,image13-2.png,There are more than three cups in the boxes.,approximate,comparative,upward
+13,image13-2.png,There are at most four cups in the boxes.,approximate,superlative,downward
+13,image13-2.png,There are fewer than five cups in the boxes.,approximate,comparative,downward
+14,image14-1.png,There are four bowls in the boxes.,precise,bare,bare
+14,image14-1.png,There are at least four bowls in the boxes.,precise,superlative,upward
+14,image14-1.png,There are more than three bowls in the boxes.,precise,comparative,upward
+14,image14-1.png,There are at most four bowls in the boxes.,precise,superlative,downward
+14,image14-1.png,There are fewer than five bowls in the boxes.,precise,comparative,downward
+14,image14-2.png,There are four bowls in the boxes.,approximate,bare,bare
+14,image14-2.png,There are at least four bowls in the boxes.,approximate,superlative,upward
+14,image14-2.png,There are more than three bowls in the boxes.,approximate,comparative,upward
+14,image14-2.png,There are at most four bowls in the boxes.,approximate,superlative,downward
+14,image14-2.png,There are fewer than five bowls in the boxes.,approximate,comparative,downward
+15,image15-1.png,There are four oranges in the boxes.,precise,bare,bare
+15,image15-1.png,There are at least four oranges in the boxes.,precise,superlative,upward
+15,image15-1.png,There are more than three oranges in the boxes.,precise,comparative,upward
+15,image15-1.png,There are at most four oranges in the boxes.,precise,superlative,downward
+15,image15-1.png,There are fewer than five oranges in the boxes.,precise,comparative,downward
+15,image15-2.png,There are four oranges in the boxes.,approximate,bare,bare
+15,image15-2.png,There are at least four oranges in the boxes.,approximate,superlative,upward
+15,image15-2.png,There are more than three oranges in the boxes.,approximate,comparative,upward
+15,image15-2.png,There are at most four oranges in the boxes.,approximate,superlative,downward
+15,image15-2.png,There are fewer than five oranges in the boxes.,approximate,comparative,downward
+16,image16-1.png,There are four watermelons in the boxes.,precise,bare,bare
+16,image16-1.png,There are at least four watermelons in the boxes.,precise,superlative,upward
+16,image16-1.png,There are more than three watermelons in the boxes.,precise,comparative,upward
+16,image16-1.png,There are at most four watermelons in the boxes.,precise,superlative,downward
+16,image16-1.png,There are fewer than five watermelons in the boxes.,precise,comparative,downward
+16,image16-2.png,There are four watermelons in the boxes.,approximate,bare,bare
+16,image16-2.png,There are at least four watermelons in the boxes.,approximate,superlative,upward
+16,image16-2.png,There are more than three watermelons in the boxes.,approximate,comparative,upward
+16,image16-2.png,There are at most four watermelons in the boxes.,approximate,superlative,downward
+16,image16-2.png,There are fewer than five watermelons in the boxes.,approximate,comparative,downward
+17,image17-1.png,There are four lemons in the boxes.,precise,bare,bare
+17,image17-1.png,There are at least four lemons in the boxes.,precise,superlative,upward
+17,image17-1.png,There are more than three lemons in the boxes.,precise,comparative,upward
+17,image17-1.png,There are at most four lemons in the boxes.,precise,superlative,downward
+17,image17-1.png,There are fewer than five lemons in the boxes.,precise,comparative,downward
+17,image17-2.png,There are four lemons in the boxes.,approximate,bare,bare
+17,image17-2.png,There are at least four lemons in the boxes.,approximate,superlative,upward
+17,image17-2.png,There are more than three lemons in the boxes.,approximate,comparative,upward
+17,image17-2.png,There are at most four lemons in the boxes.,approximate,superlative,downward
+17,image17-2.png,There are fewer than five lemons in the boxes.,approximate,comparative,downward
+18,image18-1.png,There are four grapes in the boxes.,precise,bare,bare
+18,image18-1.png,There are at least four grapes in the boxes.,precise,superlative,upward
+18,image18-1.png,There are more than three grapes in the boxes.,precise,comparative,upward
+18,image18-1.png,There are at most four grapes in the boxes.,precise,superlative,downward
+18,image18-1.png,There are fewer than five grapes in the boxes.,precise,comparative,downward
+18,image18-2.png,There are four grapes in the boxes.,approximate,bare,bare
+18,image18-2.png,There are at least four grapes in the boxes.,approximate,superlative,upward
+18,image18-2.png,There are more than three grapes in the boxes.,approximate,comparative,upward
+18,image18-2.png,There are at most four grapes in the boxes.,approximate,superlative,downward
+18,image18-2.png,There are fewer than five grapes in the boxes.,approximate,comparative,downward
+19,image19-1.png,There are four donuts in the boxes.,precise,bare,bare
+19,image19-1.png,There are at least four donuts in the boxes.,precise,superlative,upward
+19,image19-1.png,There are more than three donuts in the boxes.,precise,comparative,upward
+19,image19-1.png,There are at most four donuts in the boxes.,precise,superlative,downward
+19,image19-1.png,There are fewer than five donuts in the boxes.,precise,comparative,downward
+19,image19-2.png,There are four donuts in the boxes.,approximate,bare,bare
+19,image19-2.png,There are at least four donuts in the boxes.,approximate,superlative,upward
+19,image19-2.png,There are more than three donuts in the boxes.,approximate,comparative,upward
+19,image19-2.png,There are at most four donuts in the boxes.,approximate,superlative,downward
+19,image19-2.png,There are fewer than five donuts in the boxes.,approximate,comparative,downward
+20,image20-1.png,There are four croissants in the boxes.,precise,bare,bare
+20,image20-1.png,There are at least four croissants in the boxes.,precise,superlative,upward
+20,image20-1.png,There are more than three croissants in the boxes.,precise,comparative,upward
+20,image20-1.png,There are at most four croissants in the boxes.,precise,superlative,downward
+20,image20-1.png,There are fewer than five croissants in the boxes.,precise,comparative,downward
+20,image20-2.png,There are four croissants in the boxes.,approximate,bare,bare
+20,image20-2.png,There are at least four croissants in the boxes.,approximate,superlative,upward
+20,image20-2.png,There are more than three croissants in the boxes.,approximate,comparative,upward
+20,image20-2.png,There are at most four croissants in the boxes.,approximate,superlative,downward
+20,image20-2.png,There are fewer than five croissants in the boxes.,approximate,comparative,downward
+21,image21-1.png,There are four caps in the boxes.,precise,bare,bare
+21,image21-1.png,There are at least four caps in the boxes.,precise,superlative,upward
+21,image21-1.png,There are more than three caps in the boxes.,precise,comparative,upward
+21,image21-1.png,There are at most four caps in the boxes.,precise,superlative,downward
+21,image21-1.png,There are fewer than five caps in the boxes.,precise,comparative,downward
+21,image21-2.png,There are four caps in the boxes.,approximate,bare,bare
+21,image21-2.png,There are at least four caps in the boxes.,approximate,superlative,upward
+21,image21-2.png,There are more than three caps in the boxes.,approximate,comparative,upward
+21,image21-2.png,There are at most four caps in the boxes.,approximate,superlative,downward
+21,image21-2.png,There are fewer than five caps in the boxes.,approximate,comparative,downward
+22,image22-1.png,There are four glasses in the boxes.,precise,bare,bare
+22,image22-1.png,There are at least four glasses in the boxes.,precise,superlative,upward
+22,image22-1.png,There are more than three glasses in the boxes.,precise,comparative,upward
+22,image22-1.png,There are at most four glasses in the boxes.,precise,superlative,downward
+22,image22-1.png,There are fewer than five glasses in the boxes.,precise,comparative,downward
+22,image22-2.png,There are four glasses in the boxes.,approximate,bare,bare
+22,image22-2.png,There are at least four glasses in the boxes.,approximate,superlative,upward
+22,image22-2.png,There are more than three glasses in the boxes.,approximate,comparative,upward
+22,image22-2.png,There are at most four glasses in the boxes.,approximate,superlative,downward
+22,image22-2.png,There are fewer than five glasses in the boxes.,approximate,comparative,downward
+23,image23-1.png,There are four bags in the boxes.,precise,bare,bare
+23,image23-1.png,There are at least four bags in the boxes.,precise,superlative,upward
+23,image23-1.png,There are more than three bags in the boxes.,precise,comparative,upward
+23,image23-1.png,There are at most four bags in the boxes.,precise,superlative,downward
+23,image23-1.png,There are fewer than five bags in the boxes.,precise,comparative,downward
+23,image23-2.png,There are four bags in the boxes.,approximate,bare,bare
+23,image23-2.png,There are at least four bags in the boxes.,approximate,superlative,upward
+23,image23-2.png,There are more than three bags in the boxes.,approximate,comparative,upward
+23,image23-2.png,There are at most four bags in the boxes.,approximate,superlative,downward
+23,image23-2.png,There are fewer than five bags in the boxes.,approximate,comparative,downward
+24,image24-1.png,There are four watches in the boxes.,precise,bare,bare
+24,image24-1.png,There are at least four watches in the boxes.,precise,superlative,upward
+24,image24-1.png,There are more than three watches in the boxes.,precise,comparative,upward
+24,image24-1.png,There are at most four watches in the boxes.,precise,superlative,downward
+24,image24-1.png,There are fewer than five watches in the boxes.,precise,comparative,downward
+24,image24-2.png,There are four watches in the boxes.,approximate,bare,bare
+24,image24-2.png,There are at least four watches in the boxes.,approximate,superlative,upward
+24,image24-2.png,There are more than three watches in the boxes.,approximate,comparative,upward
+24,image24-2.png,There are at most four watches in the boxes.,approximate,superlative,downward
+24,image24-2.png,There are fewer than five watches in the boxes.,approximate,comparative,downward
+25,image25-1.png,There are four crowns in the boxes.,precise,bare,bare
+25,image25-1.png,There are at least four crowns in the boxes.,precise,superlative,upward
+25,image25-1.png,There are more than three crowns in the boxes.,precise,comparative,upward
+25,image25-1.png,There are at most four crowns in the boxes.,precise,superlative,downward
+25,image25-1.png,There are fewer than five crowns in the boxes.,precise,comparative,downward
+25,image25-2.png,There are four crowns in the boxes.,approximate,bare,bare
+25,image25-2.png,There are at least four crowns in the boxes.,approximate,superlative,upward
+25,image25-2.png,There are more than three crowns in the boxes.,approximate,comparative,upward
+25,image25-2.png,There are at most four crowns in the boxes.,approximate,superlative,downward
+25,image25-2.png,There are fewer than five crowns in the boxes.,approximate,comparative,downward
+26,image26-1.png,There are four rings in the boxes.,precise,bare,bare
+26,image26-1.png,There are at least four rings in the boxes.,precise,superlative,upward
+26,image26-1.png,There are more than three rings in the boxes.,precise,comparative,upward
+26,image26-1.png,There are at most four rings in the boxes.,precise,superlative,downward
+26,image26-1.png,There are fewer than five rings in the boxes.,precise,comparative,downward
+26,image26-2.png,There are four rings in the boxes.,approximate,bare,bare
+26,image26-2.png,There are at least four rings in the boxes.,approximate,superlative,upward
+26,image26-2.png,There are more than three rings in the boxes.,approximate,comparative,upward
+26,image26-2.png,There are at most four rings in the boxes.,approximate,superlative,downward
+26,image26-2.png,There are fewer than five rings in the boxes.,approximate,comparative,downward
+27,image27-1.png,There are four jeans in the boxes.,precise,bare,bare
+27,image27-1.png,There are at least four jeans in the boxes.,precise,superlative,upward
+27,image27-1.png,There are more than three jeans in the boxes.,precise,comparative,upward
+27,image27-1.png,There are at most four jeans in the boxes.,precise,superlative,downward
+27,image27-1.png,There are fewer than five jeans in the boxes.,precise,comparative,downward
+27,image27-2.png,There are four jeans in the boxes.,approximate,bare,bare
+27,image27-2.png,There are at least four jeans in the boxes.,approximate,superlative,upward
+27,image27-2.png,There are more than three jeans in the boxes.,approximate,comparative,upward
+27,image27-2.png,There are at most four jeans in the boxes.,approximate,superlative,downward
+27,image27-2.png,There are fewer than five jeans in the boxes.,approximate,comparative,downward
+28,image28-1.png,There are four skirts in the boxes.,precise,bare,bare
+28,image28-1.png,There are at least four skirts in the boxes.,precise,superlative,upward
+28,image28-1.png,There are more than three skirts in the boxes.,precise,comparative,upward
+28,image28-1.png,There are at most four skirts in the boxes.,precise,superlative,downward
+28,image28-1.png,There are fewer than five skirts in the boxes.,precise,comparative,downward
+28,image28-2.png,There are four skirts in the boxes.,approximate,bare,bare
+28,image28-2.png,There are at least four skirts in the boxes.,approximate,superlative,upward
+28,image28-2.png,There are more than three skirts in the boxes.,approximate,comparative,upward
+28,image28-2.png,There are at most four skirts in the boxes.,approximate,superlative,downward
+28,image28-2.png,There are fewer than five skirts in the boxes.,approximate,comparative,downward
+29,image29-1.png,There are four hats in the boxes.,precise,bare,bare
+29,image29-1.png,There are at least four hats in the boxes.,precise,superlative,upward
+29,image29-1.png,There are more than three hats in the boxes.,precise,comparative,upward
+29,image29-1.png,There are at most four hats in the boxes.,precise,superlative,downward
+29,image29-1.png,There are fewer than five hats in the boxes.,precise,comparative,downward
+29,image29-2.png,There are four hats in the boxes.,approximate,bare,bare
+29,image29-2.png,There are at least four hats in the boxes.,approximate,superlative,upward
+29,image29-2.png,There are more than three hats in the boxes.,approximate,comparative,upward
+29,image29-2.png,There are at most four hats in the boxes.,approximate,superlative,downward
+29,image29-2.png,There are fewer than five hats in the boxes.,approximate,comparative,downward
+30,image30-1.png,There are four sweaters in the boxes.,precise,bare,bare
+30,image30-1.png,There are at least four sweaters in the boxes.,precise,superlative,upward
+30,image30-1.png,There are more than three sweaters in the boxes.,precise,comparative,upward
+30,image30-1.png,There are at most four sweaters in the boxes.,precise,superlative,downward
+30,image30-1.png,There are fewer than five sweaters in the boxes.,precise,comparative,downward
+30,image30-2.png,There are four sweaters in the boxes.,approximate,bare,bare
+30,image30-2.png,There are at least four sweaters in the boxes.,approximate,superlative,upward
+30,image30-2.png,There are more than three sweaters in the boxes.,approximate,comparative,upward
+30,image30-2.png,There are at most four sweaters in the boxes.,approximate,superlative,downward
+30,image30-2.png,There are fewer than five sweaters in the boxes.,approximate,comparative,downward
+31,image31-1.png,There are four buttons in the boxes.,precise,bare,bare
+31,image31-1.png,There are at least four buttons in the boxes.,precise,superlative,upward
+31,image31-1.png,There are more than three buttons in the boxes.,precise,comparative,upward
+31,image31-1.png,There are at most four buttons in the boxes.,precise,superlative,downward
+31,image31-1.png,There are fewer than five buttons in the boxes.,precise,comparative,downward
+31,image31-2.png,There are four buttons in the boxes.,approximate,bare,bare
+31,image31-2.png,There are at least four buttons in the boxes.,approximate,superlative,upward
+31,image31-2.png,There are more than three buttons in the boxes.,approximate,comparative,upward
+31,image31-2.png,There are at most four buttons in the boxes.,approximate,superlative,downward
+31,image31-2.png,There are fewer than five buttons in the boxes.,approximate,comparative,downward
+32,image32-1.png,There are four ties in the boxes.,precise,bare,bare
+32,image32-1.png,There are at least four ties in the boxes.,precise,superlative,upward
+32,image32-1.png,There are more than three ties in the boxes.,precise,comparative,upward
+32,image32-1.png,There are at most four ties in the boxes.,precise,superlative,downward
+32,image32-1.png,There are fewer than five ties in the boxes.,precise,comparative,downward
+32,image32-2.png,There are four ties in the boxes.,approximate,bare,bare
+32,image32-2.png,There are at least four ties in the boxes.,approximate,superlative,upward
+32,image32-2.png,There are more than three ties in the boxes.,approximate,comparative,upward
+32,image32-2.png,There are at most four ties in the boxes.,approximate,superlative,downward
+32,image32-2.png,There are fewer than five ties in the boxes.,approximate,comparative,downward
+33,image33-1.png,There are four cats in the boxes.,precise,bare,bare
+33,image33-1.png,There are at least four cats in the boxes.,precise,superlative,upward
+33,image33-1.png,There are more than three cats in the boxes.,precise,comparative,upward
+33,image33-1.png,There are at most four cats in the boxes.,precise,superlative,downward
+33,image33-1.png,There are fewer than five cats in the boxes.,precise,comparative,downward
+33,image33-2.png,There are four cats in the boxes.,approximate,bare,bare
+33,image33-2.png,There are at least four cats in the boxes.,approximate,superlative,upward
+33,image33-2.png,There are more than three cats in the boxes.,approximate,comparative,upward
+33,image33-2.png,There are at most four cats in the boxes.,approximate,superlative,downward
+33,image33-2.png,There are fewer than five cats in the boxes.,approximate,comparative,downward
+34,image34-1.png,There are four dogs in the boxes.,precise,bare,bare
+34,image34-1.png,There are at least four dogs in the boxes.,precise,superlative,upward
+34,image34-1.png,There are more than three dogs in the boxes.,precise,comparative,upward
+34,image34-1.png,There are at most four dogs in the boxes.,precise,superlative,downward
+34,image34-1.png,There are fewer than five dogs in the boxes.,precise,comparative,downward
+34,image34-2.png,There are four dogs in the boxes.,approximate,bare,bare
+34,image34-2.png,There are at least four dogs in the boxes.,approximate,superlative,upward
+34,image34-2.png,There are more than three dogs in the boxes.,approximate,comparative,upward
+34,image34-2.png,There are at most four dogs in the boxes.,approximate,superlative,downward
+34,image34-2.png,There are fewer than five dogs in the boxes.,approximate,comparative,downward
+35,image35-1.png,There are four rabbits in the boxes.,precise,bare,bare
+35,image35-1.png,There are at least four rabbits in the boxes.,precise,superlative,upward
+35,image35-1.png,There are more than three rabbits in the boxes.,precise,comparative,upward
+35,image35-1.png,There are at most four rabbits in the boxes.,precise,superlative,downward
+35,image35-1.png,There are fewer than five rabbits in the boxes.,precise,comparative,downward
+35,image35-2.png,There are four rabbits in the boxes.,approximate,bare,bare
+35,image35-2.png,There are at least four rabbits in the boxes.,approximate,superlative,upward
+35,image35-2.png,There are more than three rabbits in the boxes.,approximate,comparative,upward
+35,image35-2.png,There are at most four rabbits in the boxes.,approximate,superlative,downward
+35,image35-2.png,There are fewer than five rabbits in the boxes.,approximate,comparative,downward
+36,image36-1.png,There are four ducks in the boxes.,precise,bare,bare
+36,image36-1.png,There are at least four ducks in the boxes.,precise,superlative,upward
+36,image36-1.png,There are more than three ducks in the boxes.,precise,comparative,upward
+36,image36-1.png,There are at most four ducks in the boxes.,precise,superlative,downward
+36,image36-1.png,There are fewer than five ducks in the boxes.,precise,comparative,downward
+36,image36-2.png,There are four ducks in the boxes.,approximate,bare,bare
+36,image36-2.png,There are at least four ducks in the boxes.,approximate,superlative,upward
+36,image36-2.png,There are more than three ducks in the boxes.,approximate,comparative,upward
+36,image36-2.png,There are at most four ducks in the boxes.,approximate,superlative,downward
+36,image36-2.png,There are fewer than five ducks in the boxes.,approximate,comparative,downward
+37,image37-1.png,There are four turtles in the boxes.,precise,bare,bare
+37,image37-1.png,There are at least four turtles in the boxes.,precise,superlative,upward
+37,image37-1.png,There are more than three turtles in the boxes.,precise,comparative,upward
+37,image37-1.png,There are at most four turtles in the boxes.,precise,superlative,downward
+37,image37-1.png,There are fewer than five turtles in the boxes.,precise,comparative,downward
+37,image37-2.png,There are four turtles in the boxes.,approximate,bare,bare
+37,image37-2.png,There are at least four turtles in the boxes.,approximate,superlative,upward
+37,image37-2.png,There are more than three turtles in the boxes.,approximate,comparative,upward
+37,image37-2.png,There are at most four turtles in the boxes.,approximate,superlative,downward
+37,image37-2.png,There are fewer than five turtles in the boxes.,approximate,comparative,downward
+38,image38-1.png,There are four whales in the boxes.,precise,bare,bare
+38,image38-1.png,There are at least four whales in the boxes.,precise,superlative,upward
+38,image38-1.png,There are more than three whales in the boxes.,precise,comparative,upward
+38,image38-1.png,There are at most four whales in the boxes.,precise,superlative,downward
+38,image38-1.png,There are fewer than five whales in the boxes.,precise,comparative,downward
+38,image38-2.png,There are four whales in the boxes.,approximate,bare,bare
+38,image38-2.png,There are at least four whales in the boxes.,approximate,superlative,upward
+38,image38-2.png,There are more than three whales in the boxes.,approximate,comparative,upward
+38,image38-2.png,There are at most four whales in the boxes.,approximate,superlative,downward
+38,image38-2.png,There are fewer than five whales in the boxes.,approximate,comparative,downward
+39,image39-1.png,There are four octopuses in the boxes.,precise,bare,bare
+39,image39-1.png,There are at least four octopuses in the boxes.,precise,superlative,upward
+39,image39-1.png,There are more than three octopuses in the boxes.,precise,comparative,upward
+39,image39-1.png,There are at most four octopuses in the boxes.,precise,superlative,downward
+39,image39-1.png,There are fewer than five octopuses in the boxes.,precise,comparative,downward
+39,image39-2.png,There are four octopuses in the boxes.,approximate,bare,bare
+39,image39-2.png,There are at least four octopuses in the boxes.,approximate,superlative,upward
+39,image39-2.png,There are more than three octopuses in the boxes.,approximate,comparative,upward
+39,image39-2.png,There are at most four octopuses in the boxes.,approximate,superlative,downward
+39,image39-2.png,There are fewer than five octopuses in the boxes.,approximate,comparative,downward
+40,image40-1.png,There are four crabs in the boxes.,precise,bare,bare
+40,image40-1.png,There are at least four crabs in the boxes.,precise,superlative,upward
+40,image40-1.png,There are more than three crabs in the boxes.,precise,comparative,upward
+40,image40-1.png,There are at most four crabs in the boxes.,precise,superlative,downward
+40,image40-1.png,There are fewer than five crabs in the boxes.,precise,comparative,downward
+40,image40-2.png,There are four crabs in the boxes.,approximate,bare,bare
+40,image40-2.png,There are at least four crabs in the boxes.,approximate,superlative,upward
+40,image40-2.png,There are more than three crabs in the boxes.,approximate,comparative,upward
+40,image40-2.png,There are at most four crabs in the boxes.,approximate,superlative,downward
+40,image40-2.png,There are fewer than five crabs in the boxes.,approximate,comparative,downward
+41,image41-1.png,There are four fishes in the boxes.,precise,bare,bare
+41,image41-1.png,There are at least four fishes in the boxes.,precise,superlative,upward
+41,image41-1.png,There are more than three fishes in the boxes.,precise,comparative,upward
+41,image41-1.png,There are at most four fishes in the boxes.,precise,superlative,downward
+41,image41-1.png,There are fewer than five fishes in the boxes.,precise,comparative,downward
+41,image41-2.png,There are four fishes in the boxes.,approximate,bare,bare
+41,image41-2.png,There are at least four fishes in the boxes.,approximate,superlative,upward
+41,image41-2.png,There are more than three fishes in the boxes.,approximate,comparative,upward
+41,image41-2.png,There are at most four fishes in the boxes.,approximate,superlative,downward
+41,image41-2.png,There are fewer than five fishes in the boxes.,approximate,comparative,downward
+42,image42-1.png,There are four frogs in the boxes.,precise,bare,bare
+42,image42-1.png,There are at least four frogs in the boxes.,precise,superlative,upward
+42,image42-1.png,There are more than three frogs in the boxes.,precise,comparative,upward
+42,image42-1.png,There are at most four frogs in the boxes.,precise,superlative,downward
+42,image42-1.png,There are fewer than five frogs in the boxes.,precise,comparative,downward
+42,image42-2.png,There are four frogs in the boxes.,approximate,bare,bare
+42,image42-2.png,There are at least four frogs in the boxes.,approximate,superlative,upward
+42,image42-2.png,There are more than three frogs in the boxes.,approximate,comparative,upward
+42,image42-2.png,There are at most four frogs in the boxes.,approximate,superlative,downward
+42,image42-2.png,There are fewer than five frogs in the boxes.,approximate,comparative,downward
+43,image43-1.png,There are four elephants in the boxes.,precise,bare,bare
+43,image43-1.png,There are at least four elephants in the boxes.,precise,superlative,upward
+43,image43-1.png,There are more than three elephants in the boxes.,precise,comparative,upward
+43,image43-1.png,There are at most four elephants in the boxes.,precise,superlative,downward
+43,image43-1.png,There are fewer than five elephants in the boxes.,precise,comparative,downward
+43,image43-2.png,There are four elephants in the boxes.,approximate,bare,bare
+43,image43-2.png,There are at least four elephants in the boxes.,approximate,superlative,upward
+43,image43-2.png,There are more than three elephants in the boxes.,approximate,comparative,upward
+43,image43-2.png,There are at most four elephants in the boxes.,approximate,superlative,downward
+43,image43-2.png,There are fewer than five elephants in the boxes.,approximate,comparative,downward
+44,image44-1.png,There are four giraffes in the boxes.,precise,bare,bare
+44,image44-1.png,There are at least four giraffes in the boxes.,precise,superlative,upward
+44,image44-1.png,There are more than three giraffes in the boxes.,precise,comparative,upward
+44,image44-1.png,There are at most four giraffes in the boxes.,precise,superlative,downward
+44,image44-1.png,There are fewer than five giraffes in the boxes.,precise,comparative,downward
+44,image44-2.png,There are four giraffes in the boxes.,approximate,bare,bare
+44,image44-2.png,There are at least four giraffes in the boxes.,approximate,superlative,upward
+44,image44-2.png,There are more than three giraffes in the boxes.,approximate,comparative,upward
+44,image44-2.png,There are at most four giraffes in the boxes.,approximate,superlative,downward
+44,image44-2.png,There are fewer than five giraffes in the boxes.,approximate,comparative,downward
+45,image45-1.png,There are four koalas in the boxes.,precise,bare,bare
+45,image45-1.png,There are at least four koalas in the boxes.,precise,superlative,upward
+45,image45-1.png,There are more than three koalas in the boxes.,precise,comparative,upward
+45,image45-1.png,There are at most four koalas in the boxes.,precise,superlative,downward
+45,image45-1.png,There are fewer than five koalas in the boxes.,precise,comparative,downward
+45,image45-2.png,There are four koalas in the boxes.,approximate,bare,bare
+45,image45-2.png,There are at least four koalas in the boxes.,approximate,superlative,upward
+45,image45-2.png,There are more than three koalas in the boxes.,approximate,comparative,upward
+45,image45-2.png,There are at most four koalas in the boxes.,approximate,superlative,downward
+45,image45-2.png,There are fewer than five koalas in the boxes.,approximate,comparative,downward
+46,image46-1.png,There are four kangaroos in the boxes.,precise,bare,bare
+46,image46-1.png,There are at least four kangaroos in the boxes.,precise,superlative,upward
+46,image46-1.png,There are more than three kangaroos in the boxes.,precise,comparative,upward
+46,image46-1.png,There are at most four kangaroos in the boxes.,precise,superlative,downward
+46,image46-1.png,There are fewer than five kangaroos in the boxes.,precise,comparative,downward
+46,image46-2.png,There are four kangaroos in the boxes.,approximate,bare,bare
+46,image46-2.png,There are at least four kangaroos in the boxes.,approximate,superlative,upward
+46,image46-2.png,There are more than three kangaroos in the boxes.,approximate,comparative,upward
+46,image46-2.png,There are at most four kangaroos in the boxes.,approximate,superlative,downward
+46,image46-2.png,There are fewer than five kangaroos in the boxes.,approximate,comparative,downward
+47,image47-1.png,There are four birds in the boxes.,precise,bare,bare
+47,image47-1.png,There are at least four birds in the boxes.,precise,superlative,upward
+47,image47-1.png,There are more than three birds in the boxes.,precise,comparative,upward
+47,image47-1.png,There are at most four birds in the boxes.,precise,superlative,downward
+47,image47-1.png,There are fewer than five birds in the boxes.,precise,comparative,downward
+47,image47-2.png,There are four birds in the boxes.,approximate,bare,bare
+47,image47-2.png,There are at least four birds in the boxes.,approximate,superlative,upward
+47,image47-2.png,There are more than three birds in the boxes.,approximate,comparative,upward
+47,image47-2.png,There are at most four birds in the boxes.,approximate,superlative,downward
+47,image47-2.png,There are fewer than five birds in the boxes.,approximate,comparative,downward
+48,image48-1.png,There are four owls in the boxes.,precise,bare,bare
+48,image48-1.png,There are at least four owls in the boxes.,precise,superlative,upward
+48,image48-1.png,There are more than three owls in the boxes.,precise,comparative,upward
+48,image48-1.png,There are at most four owls in the boxes.,precise,superlative,downward
+48,image48-1.png,There are fewer than five owls in the boxes.,precise,comparative,downward
+48,image48-2.png,There are four owls in the boxes.,approximate,bare,bare
+48,image48-2.png,There are at least four owls in the boxes.,approximate,superlative,upward
+48,image48-2.png,There are more than three owls in the boxes.,approximate,comparative,upward
+48,image48-2.png,There are at most four owls in the boxes.,approximate,superlative,downward
+48,image48-2.png,There are fewer than five owls in the boxes.,approximate,comparative,downward
+49,image49-1.png,There are four monkeys in the boxes.,precise,bare,bare
+49,image49-1.png,There are at least four monkeys in the boxes.,precise,superlative,upward
+49,image49-1.png,There are more than three monkeys in the boxes.,precise,comparative,upward
+49,image49-1.png,There are at most four monkeys in the boxes.,precise,superlative,downward
+49,image49-1.png,There are fewer than five monkeys in the boxes.,precise,comparative,downward
+49,image49-2.png,There are four monkeys in the boxes.,approximate,bare,bare
+49,image49-2.png,There are at least four monkeys in the boxes.,approximate,superlative,upward
+49,image49-2.png,There are more than three monkeys in the boxes.,approximate,comparative,upward
+49,image49-2.png,There are at most four monkeys in the boxes.,approximate,superlative,downward
+49,image49-2.png,There are fewer than five monkeys in the boxes.,approximate,comparative,downward
+50,image50-1.png,There are four rats in the boxes.,precise,bare,bare
+50,image50-1.png,There are at least four rats in the boxes.,precise,superlative,upward
+50,image50-1.png,There are more than three rats in the boxes.,precise,comparative,upward
+50,image50-1.png,There are at most four rats in the boxes.,precise,superlative,downward
+50,image50-1.png,There are fewer than five rats in the boxes.,precise,comparative,downward
+50,image50-2.png,There are four rats in the boxes.,approximate,bare,bare
+50,image50-2.png,There are at least four rats in the boxes.,approximate,superlative,upward
+50,image50-2.png,There are more than three rats in the boxes.,approximate,comparative,upward
+50,image50-2.png,There are at most four rats in the boxes.,approximate,superlative,downward
+50,image50-2.png,There are fewer than five rats in the boxes.,approximate,comparative,downward
+51,image51-1.png,There are four clams in the boxes.,precise,bare,bare
+51,image51-1.png,There are at least four clams in the boxes.,precise,superlative,upward
+51,image51-1.png,There are more than three clams in the boxes.,precise,comparative,upward
+51,image51-1.png,There are at most four clams in the boxes.,precise,superlative,downward
+51,image51-1.png,There are fewer than five clams in the boxes.,precise,comparative,downward
+51,image51-2.png,There are four clams in the boxes.,approximate,bare,bare
+51,image51-2.png,There are at least four clams in the boxes.,approximate,superlative,upward
+51,image51-2.png,There are more than three clams in the boxes.,approximate,comparative,upward
+51,image51-2.png,There are at most four clams in the boxes.,approximate,superlative,downward
+51,image51-2.png,There are fewer than five clams in the boxes.,approximate,comparative,downward
+52,image52-1.png,There are four snails in the boxes.,precise,bare,bare
+52,image52-1.png,There are at least four snails in the boxes.,precise,superlative,upward
+52,image52-1.png,There are more than three snails in the boxes.,precise,comparative,upward
+52,image52-1.png,There are at most four snails in the boxes.,precise,superlative,downward
+52,image52-1.png,There are fewer than five snails in the boxes.,precise,comparative,downward
+52,image52-2.png,There are four snails in the boxes.,approximate,bare,bare
+52,image52-2.png,There are at least four snails in the boxes.,approximate,superlative,upward
+52,image52-2.png,There are more than three snails in the boxes.,approximate,comparative,upward
+52,image52-2.png,There are at most four snails in the boxes.,approximate,superlative,downward
+52,image52-2.png,There are fewer than five snails in the boxes.,approximate,comparative,downward
+53,image53-1.png,There are four squirrels in the boxes.,precise,bare,bare
+53,image53-1.png,There are at least four squirrels in the boxes.,precise,superlative,upward
+53,image53-1.png,There are more than three squirrels in the boxes.,precise,comparative,upward
+53,image53-1.png,There are at most four squirrels in the boxes.,precise,superlative,downward
+53,image53-1.png,There are fewer than five squirrels in the boxes.,precise,comparative,downward
+53,image53-2.png,There are four squirrels in the boxes.,approximate,bare,bare
+53,image53-2.png,There are at least four squirrels in the boxes.,approximate,superlative,upward
+53,image53-2.png,There are more than three squirrels in the boxes.,approximate,comparative,upward
+53,image53-2.png,There are at most four squirrels in the boxes.,approximate,superlative,downward
+53,image53-2.png,There are fewer than five squirrels in the boxes.,approximate,comparative,downward
+54,image54-1.png,There are four penguins in the boxes.,precise,bare,bare
+54,image54-1.png,There are at least four penguins in the boxes.,precise,superlative,upward
+54,image54-1.png,There are more than three penguins in the boxes.,precise,comparative,upward
+54,image54-1.png,There are at most four penguins in the boxes.,precise,superlative,downward
+54,image54-1.png,There are fewer than five penguins in the boxes.,precise,comparative,downward
+54,image54-2.png,There are four penguins in the boxes.,approximate,bare,bare
+54,image54-2.png,There are at least four penguins in the boxes.,approximate,superlative,upward
+54,image54-2.png,There are more than three penguins in the boxes.,approximate,comparative,upward
+54,image54-2.png,There are at most four penguins in the boxes.,approximate,superlative,downward
+54,image54-2.png,There are fewer than five penguins in the boxes.,approximate,comparative,downward
+55,image55-1.png,There are four gifts in the boxes.,precise,bare,bare
+55,image55-1.png,There are at least four gifts in the boxes.,precise,superlative,upward
+55,image55-1.png,There are more than three gifts in the boxes.,precise,comparative,upward
+55,image55-1.png,There are at most four gifts in the boxes.,precise,superlative,downward
+55,image55-1.png,There are fewer than five gifts in the boxes.,precise,comparative,downward
+55,image55-2.png,There are four gifts in the boxes.,approximate,bare,bare
+55,image55-2.png,There are at least four gifts in the boxes.,approximate,superlative,upward
+55,image55-2.png,There are more than three gifts in the boxes.,approximate,comparative,upward
+55,image55-2.png,There are at most four gifts in the boxes.,approximate,superlative,downward
+55,image55-2.png,There are fewer than five gifts in the boxes.,approximate,comparative,downward
+56,image56-1.png,There are four trophies in the boxes.,precise,bare,bare
+56,image56-1.png,There are at least four trophies in the boxes.,precise,superlative,upward
+56,image56-1.png,There are more than three trophies in the boxes.,precise,comparative,upward
+56,image56-1.png,There are at most four trophies in the boxes.,precise,superlative,downward
+56,image56-1.png,There are fewer than five trophies in the boxes.,precise,comparative,downward
+56,image56-2.png,There are four trophies in the boxes.,approximate,bare,bare
+56,image56-2.png,There are at least four trophies in the boxes.,approximate,superlative,upward
+56,image56-2.png,There are more than three trophies in the boxes.,approximate,comparative,upward
+56,image56-2.png,There are at most four trophies in the boxes.,approximate,superlative,downward
+56,image56-2.png,There are fewer than five trophies in the boxes.,approximate,comparative,downward
+57,image57-1.png,There are four mirrors in the boxes.,precise,bare,bare
+57,image57-1.png,There are at least four mirrors in the boxes.,precise,superlative,upward
+57,image57-1.png,There are more than three mirrors in the boxes.,precise,comparative,upward
+57,image57-1.png,There are at most four mirrors in the boxes.,precise,superlative,downward
+57,image57-1.png,There are fewer than five mirrors in the boxes.,precise,comparative,downward
+57,image57-2.png,There are four mirrors in the boxes.,approximate,bare,bare
+57,image57-2.png,There are at least four mirrors in the boxes.,approximate,superlative,upward
+57,image57-2.png,There are more than three mirrors in the boxes.,approximate,comparative,upward
+57,image57-2.png,There are at most four mirrors in the boxes.,approximate,superlative,downward
+57,image57-2.png,There are fewer than five mirrors in the boxes.,approximate,comparative,downward
+58,image58-1.png,There are four brushes in the boxes.,precise,bare,bare
+58,image58-1.png,There are at least four brushes in the boxes.,precise,superlative,upward
+58,image58-1.png,There are more than three brushes in the boxes.,precise,comparative,upward
+58,image58-1.png,There are at most four brushes in the boxes.,precise,superlative,downward
+58,image58-1.png,There are fewer than five brushes in the boxes.,precise,comparative,downward
+58,image58-2.png,There are four brushes in the boxes.,approximate,bare,bare
+58,image58-2.png,There are at least four brushes in the boxes.,approximate,superlative,upward
+58,image58-2.png,There are more than three brushes in the boxes.,approximate,comparative,upward
+58,image58-2.png,There are at most four brushes in the boxes.,approximate,superlative,downward
+58,image58-2.png,There are fewer than five brushes in the boxes.,approximate,comparative,downward
+59,image59-1.png,There are four ribbons in the boxes.,precise,bare,bare
+59,image59-1.png,There are at least four ribbons in the boxes.,precise,superlative,upward
+59,image59-1.png,There are more than three ribbons in the boxes.,precise,comparative,upward
+59,image59-1.png,There are at most four ribbons in the boxes.,precise,superlative,downward
+59,image59-1.png,There are fewer than five ribbons in the boxes.,precise,comparative,downward
+59,image59-2.png,There are four ribbons in the boxes.,approximate,bare,bare
+59,image59-2.png,There are at least four ribbons in the boxes.,approximate,superlative,upward
+59,image59-2.png,There are more than three ribbons in the boxes.,approximate,comparative,upward
+59,image59-2.png,There are at most four ribbons in the boxes.,approximate,superlative,downward
+59,image59-2.png,There are fewer than five ribbons in the boxes.,approximate,comparative,downward
+60,image60-1.png,There are four canes in the boxes.,precise,bare,bare
+60,image60-1.png,There are at least four canes in the boxes.,precise,superlative,upward
+60,image60-1.png,There are more than three canes in the boxes.,precise,comparative,upward
+60,image60-1.png,There are at most four canes in the boxes.,precise,superlative,downward
+60,image60-1.png,There are fewer than five canes in the boxes.,precise,comparative,downward
+60,image60-2.png,There are four canes in the boxes.,approximate,bare,bare
+60,image60-2.png,There are at least four canes in the boxes.,approximate,superlative,upward
+60,image60-2.png,There are more than three canes in the boxes.,approximate,comparative,upward
+60,image60-2.png,There are at most four canes in the boxes.,approximate,superlative,downward
+60,image60-2.png,There are fewer than five canes in the boxes.,approximate,comparative,downward
+61,image61-1.png,There are four locks in the boxes.,precise,bare,bare
+61,image61-1.png,There are at least four locks in the boxes.,precise,superlative,upward
+61,image61-1.png,There are more than three locks in the boxes.,precise,comparative,upward
+61,image61-1.png,There are at most four locks in the boxes.,precise,superlative,downward
+61,image61-1.png,There are fewer than five locks in the boxes.,precise,comparative,downward
+61,image61-2.png,There are four locks in the boxes.,approximate,bare,bare
+61,image61-2.png,There are at least four locks in the boxes.,approximate,superlative,upward
+61,image61-2.png,There are more than three locks in the boxes.,approximate,comparative,upward
+61,image61-2.png,There are at most four locks in the boxes.,approximate,superlative,downward
+61,image61-2.png,There are fewer than five locks in the boxes.,approximate,comparative,downward
+62,image62-1.png,There are four keys in the boxes.,precise,bare,bare
+62,image62-1.png,There are at least four keys in the boxes.,precise,superlative,upward
+62,image62-1.png,There are more than three keys in the boxes.,precise,comparative,upward
+62,image62-1.png,There are at most four keys in the boxes.,precise,superlative,downward
+62,image62-1.png,There are fewer than five keys in the boxes.,precise,comparative,downward
+62,image62-2.png,There are four keys in the boxes.,approximate,bare,bare
+62,image62-2.png,There are at least four keys in the boxes.,approximate,superlative,upward
+62,image62-2.png,There are more than three keys in the boxes.,approximate,comparative,upward
+62,image62-2.png,There are at most four keys in the boxes.,approximate,superlative,downward
+62,image62-2.png,There are fewer than five keys in the boxes.,approximate,comparative,downward
+63,image63-1.png,There are four stars in the boxes.,precise,bare,bare
+63,image63-1.png,There are at least four stars in the boxes.,precise,superlative,upward
+63,image63-1.png,There are more than three stars in the boxes.,precise,comparative,upward
+63,image63-1.png,There are at most four stars in the boxes.,precise,superlative,downward
+63,image63-1.png,There are fewer than five stars in the boxes.,precise,comparative,downward
+63,image63-2.png,There are four stars in the boxes.,approximate,bare,bare
+63,image63-2.png,There are at least four stars in the boxes.,approximate,superlative,upward
+63,image63-2.png,There are more than three stars in the boxes.,approximate,comparative,upward
+63,image63-2.png,There are at most four stars in the boxes.,approximate,superlative,downward
+63,image63-2.png,There are fewer than five stars in the boxes.,approximate,comparative,downward
+64,image64-1.png,There are four hearts in the boxes.,precise,bare,bare
+64,image64-1.png,There are at least four hearts in the boxes.,precise,superlative,upward
+64,image64-1.png,There are more than three hearts in the boxes.,precise,comparative,upward
+64,image64-1.png,There are at most four hearts in the boxes.,precise,superlative,downward
+64,image64-1.png,There are fewer than five hearts in the boxes.,precise,comparative,downward
+64,image64-2.png,There are four hearts in the boxes.,approximate,bare,bare
+64,image64-2.png,There are at least four hearts in the boxes.,approximate,superlative,upward
+64,image64-2.png,There are more than three hearts in the boxes.,approximate,comparative,upward
+64,image64-2.png,There are at most four hearts in the boxes.,approximate,superlative,downward
+64,image64-2.png,There are fewer than five hearts in the boxes.,approximate,comparative,downward
+65,image65-1.png,There are four drums in the boxes.,precise,bare,bare
+65,image65-1.png,There are at least four drums in the boxes.,precise,superlative,upward
+65,image65-1.png,There are more than three drums in the boxes.,precise,comparative,upward
+65,image65-1.png,There are at most four drums in the boxes.,precise,superlative,downward
+65,image65-1.png,There are fewer than five drums in the boxes.,precise,comparative,downward
+65,image65-2.png,There are four drums in the boxes.,approximate,bare,bare
+65,image65-2.png,There are at least four drums in the boxes.,approximate,superlative,upward
+65,image65-2.png,There are more than three drums in the boxes.,approximate,comparative,upward
+65,image65-2.png,There are at most four drums in the boxes.,approximate,superlative,downward
+65,image65-2.png,There are fewer than five drums in the boxes.,approximate,comparative,downward
+66,image66-1.png,There are four guitars in the boxes.,precise,bare,bare
+66,image66-1.png,There are at least four guitars in the boxes.,precise,superlative,upward
+66,image66-1.png,There are more than three guitars in the boxes.,precise,comparative,upward
+66,image66-1.png,There are at most four guitars in the boxes.,precise,superlative,downward
+66,image66-1.png,There are fewer than five guitars in the boxes.,precise,comparative,downward
+66,image66-2.png,There are four guitars in the boxes.,approximate,bare,bare
+66,image66-2.png,There are at least four guitars in the boxes.,approximate,superlative,upward
+66,image66-2.png,There are more than three guitars in the boxes.,approximate,comparative,upward
+66,image66-2.png,There are at most four guitars in the boxes.,approximate,superlative,downward
+66,image66-2.png,There are fewer than five guitars in the boxes.,approximate,comparative,downward
+67,image67-1.png,There are four headphones in the boxes.,precise,bare,bare
+67,image67-1.png,There are at least four headphones in the boxes.,precise,superlative,upward
+67,image67-1.png,There are more than three headphones in the boxes.,precise,comparative,upward
+67,image67-1.png,There are at most four headphones in the boxes.,precise,superlative,downward
+67,image67-1.png,There are fewer than five headphones in the boxes.,precise,comparative,downward
+67,image67-2.png,There are four headphones in the boxes.,approximate,bare,bare
+67,image67-2.png,There are at least four headphones in the boxes.,approximate,superlative,upward
+67,image67-2.png,There are more than three headphones in the boxes.,approximate,comparative,upward
+67,image67-2.png,There are at most four headphones in the boxes.,approximate,superlative,downward
+67,image67-2.png,There are fewer than five headphones in the boxes.,approximate,comparative,downward
+68,image68-1.png,There are four microphones in the boxes.,precise,bare,bare
+68,image68-1.png,There are at least four microphones in the boxes.,precise,superlative,upward
+68,image68-1.png,There are more than three microphones in the boxes.,precise,comparative,upward
+68,image68-1.png,There are at most four microphones in the boxes.,precise,superlative,downward
+68,image68-1.png,There are fewer than five microphones in the boxes.,precise,comparative,downward
+68,image68-2.png,There are four microphones in the boxes.,approximate,bare,bare
+68,image68-2.png,There are at least four microphones in the boxes.,approximate,superlative,upward
+68,image68-2.png,There are more than three microphones in the boxes.,approximate,comparative,upward
+68,image68-2.png,There are at most four microphones in the boxes.,approximate,superlative,downward
+68,image68-2.png,There are fewer than five microphones in the boxes.,approximate,comparative,downward
+69,image69-1.png,There are four bugs in the boxes.,precise,bare,bare
+69,image69-1.png,There are at least four bugs in the boxes.,precise,superlative,upward
+69,image69-1.png,There are more than three bugs in the boxes.,precise,comparative,upward
+69,image69-1.png,There are at most four bugs in the boxes.,precise,superlative,downward
+69,image69-1.png,There are fewer than five bugs in the boxes.,precise,comparative,downward
+69,image69-2.png,There are four bugs in the boxes.,approximate,bare,bare
+69,image69-2.png,There are at least four bugs in the boxes.,approximate,superlative,upward
+69,image69-2.png,There are more than three bugs in the boxes.,approximate,comparative,upward
+69,image69-2.png,There are at most four bugs in the boxes.,approximate,superlative,downward
+69,image69-2.png,There are fewer than five bugs in the boxes.,approximate,comparative,downward
+70,image70-1.png,There are four chicks in the boxes.,precise,bare,bare
+70,image70-1.png,There are at least four chicks in the boxes.,precise,superlative,upward
+70,image70-1.png,There are more than three chicks in the boxes.,precise,comparative,upward
+70,image70-1.png,There are at most four chicks in the boxes.,precise,superlative,downward
+70,image70-1.png,There are fewer than five chicks in the boxes.,precise,comparative,downward
+70,image70-2.png,There are four chicks in the boxes.,approximate,bare,bare
+70,image70-2.png,There are at least four chicks in the boxes.,approximate,superlative,upward
+70,image70-2.png,There are more than three chicks in the boxes.,approximate,comparative,upward
+70,image70-2.png,There are at most four chicks in the boxes.,approximate,superlative,downward
+70,image70-2.png,There are fewer than five chicks in the boxes.,approximate,comparative,downward
