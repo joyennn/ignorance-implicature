@@ -12,9 +12,6 @@ from requests.exceptions import ReadTimeout, ConnectTimeout
 from google.api_core.exceptions import ServiceUnavailable
 
 
-
-
-
 """# Claude 3.5"""
 
 # ─── 1) Clade model setup ──────────────────────────────
